@@ -4,7 +4,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/55px4c7j0lep6kmk?svg=true)](https://ci.appveyor.com/project/CoolPaK/ra-store-class)
 
 
-[Github Pages]()
+[Github Pages](https://coolpak.github.io/ra_store-class/)
 
 
 # React + Vite
