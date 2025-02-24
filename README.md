@@ -1,6 +1,7 @@
 # Домашнее задание к занятию "1.2. Страница интернет-магазина"
 [![Netology React](https://github.com/coolpak/ra_store-class/actions/workflows/web.yml/badge.svg?branch=main)](https://github.com/coolpak/ra_store-class/actions/workflows/web.yml)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/55px4c7j0lep6kmk?svg=true)](https://ci.appveyor.com/project/CoolPaK/ra-store-class)
 
 
 [Github Pages]()
